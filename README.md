@@ -1,8 +1,23 @@
 ## Hi I'm Hapy👋🏻
 
-#### **Learning**
-![HTML5](https://img.shields.io/badge/-HTML5-%23E44D27?style=flat-square&logo=html5&logoColor=ffffff)
-![CSS3](https://img.shields.io/badge/-CSS3-%231572B6?style=flat-square&logo=css3)
-![JavaScript](https://img.shields.io/badge/-JavaScript-%23F7DF1C?style=flat-square&logo=javascript&logoColor=000000&labelColor=%23F7DF1C&color=%23FFCE5A)
+### Programming Languages 🌐
+
+- Know/Using
+
+| |
+|---|---|---|---|---|---|
+
+- Learning
+
+| [<img src="https://raw.githubusercontent.com/github/explore/cfd26557025b2ccaa2d3d25f3e518e29ebea05c5/topics/v/v.png" alt="v logo" width="24">]|
+|---|---|---|
+
+### Tools 🛠️
+
+- Know/Using
+
+| [<img src="https://raw.githubusercontent.com/Delta456/Delta456/master/img/vscode.png" alt="vscode logo" width="24">](https://code.visualstudio.com/) |
+|---|---|---|---|---|---|---|---|---|---|
+
 <!--
 **hapy0/hapy0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
